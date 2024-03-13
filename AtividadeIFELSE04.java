@@ -7,7 +7,6 @@ public class Main {
 
         int num1 = 0;
         int num2 = 0;
-        int maior = 0;
         
         System.out.println("Digite o primeiro numero: ");
         num1 = scanner.nextInt();
